@@ -1,0 +1,14 @@
+100|Anonimus|18/06/2021|198.192.0.0|holi mundo|1|1
+101|lol en respuesta a 100|18/06/2021|198.192.0.0|holap|0|0
+102|Emiliano en respuesta a 101|18/06/2021|198.192.0.0|que pasa chavall|0|0
+103|Emiliano Silva en respuesta a 100|18/06/2021|198.192.0.0|como estas?|4|0
+104|lol|18/06/2021|198.192.0.0|jaja locos|0|11
+105|Emiliano|18/06/2021|198.192.0.0|jaja locoss|0|11
+106|Jose|18/06/2021|198.192.0.0|jaja pelon|0|0
+107|Jose|18/06/2021|198.192.0.0|El mundo es maravilloso|3|0
+108|Emiliano en respuesta a 107|18/06/2021|198.192.0.0|Si, pero es redondo|0|0
+109|Emiliano en respuesta a 107|18/06/2021|198.192.0.0|jaja|0|4
+110|Jose|18/06/2021|198.192.0.0|estas loco|0|0
+111|Jose|18/06/2021|198.192.0.0|El cielo es verde|0|0
+112|Jose en respuesta a 111|18/06/2021|198.192.0.0|EL cielo tambien es azul|0|0
+113|Emiliano en respuesta a 111|18/06/2021|198.192.0.0|Y yo lo e visto amarillo|3|11
